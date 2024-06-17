@@ -92,7 +92,7 @@ Follow these steps to set up the project:
 
 If you find a bug or have a feature request, please create an issue using the following steps:
 
-1. Go to the repository's [Issues](https://github.com/Kendralabs/REPO_NAME/issues) tab.
+1. Go to the repository's [Issues](https://github.com/Kendralabs/docs/issues) tab.
 2. Click on `New Issue`.
 3. Fill out the issue template with the following information:
    - **Title**: A brief, descriptive title.
