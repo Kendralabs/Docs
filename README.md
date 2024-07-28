@@ -88,6 +88,16 @@ Follow these steps to set up the project:
 
 5. Wait for the maintainers to review your pull request. Make sure to address any feedback or requested changes promptly.
 
+### Code Quality
+
+To ensure high-quality code, please adhere to the following guidelines:
+
+- **Comments**: Add comments to your code where necessary to explain complex logic or important details.
+- **Naming Conventions**: Use clear and descriptive names for folders, files, variables, functions, and classes. Avoid single-letter names or overly abbreviated names.
+- **File and Folder Structure**: Ensure that the project structure is logical and organized. Avoid having separate folders for each file unless absolutely necessary. Proper naming can help keep the project structure clean and navigable.
+- **Path Correctness**: Make sure all file paths are correct and relative to the project root. Avoid hardcoding paths that could break when the project structure changes.
+
+
 ## Creating an Issue
 
 If you find a bug or have a feature request, please create an issue using the following steps:
